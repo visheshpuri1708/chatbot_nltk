@@ -8,27 +8,40 @@
         "How are you",
         "Is anyone there?",
         "Hello",
-        "Good day"
+        "Hello there",
+        "Good day",
+        "Hola",
+        "Hya",
+        "Hya there",
+        "Hiiiii",
+        "helllo",
+        "hii",
+        "helooo"
       ],
       "responses": [
-        "Hey :-)",
-        "Hello, thanks for visiting",
-        "Hi there, what can I do for you?",
-        "Hi there, how can I help?"
+        "Hello, Welcome to Memorial University of Newfoundland.  How can I help you today?",
+        "Hi there, Welcome to Memorial University of Newfoundland. What can I do for you?",
+        "Hi there, Welcome to Memorial University of Newfoundland. How can I help?"
       ]
     },
     {
       "tag": "goodbye",
       "patterns": ["Bye", "See you later", "Goodbye"],
       "responses": [
-        "See you later, thanks for visiting",
+        "See you later, Thanks for visiting",
         "Have a nice day",
         "Bye! Come back again soon."
       ]
     },
     {
       "tag": "thanks",
-      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "patterns": ["Thanks",
+                   "Thank you",
+                   "That's helpful", 
+                   "Thank's a lot!", 
+                   "Thats it",
+                   "thaanks"
+                  ],
       "responses": ["Happy to help!", "Any time!", "My pleasure"]
     },
     {
