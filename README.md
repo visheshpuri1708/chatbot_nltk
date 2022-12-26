@@ -15,3 +15,6 @@ Steps to Initialize:
 </ul>
 
 2. Run app.py file to initialize the GUI and you can start chatting with the bot!
+
+
+![My Image](chatbot.png)
